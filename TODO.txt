@@ -1,3 +1,0 @@
-- update and place name in LICENSE
-- update README.md
-- update .gitignore if needed

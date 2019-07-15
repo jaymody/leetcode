@@ -1,11 +1,2 @@
-# Project Title
-[description]
-
-## Getting Started
-[Instructions]
-
-### Prerequisites
-[dependencies]
-
-### Installing
-[steps]
+# My Leetcode Solutions
+Jay Mody
