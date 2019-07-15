@@ -5,8 +5,6 @@ if [ $# -lt 6 ]; then
     exit 1
 fi
 
-example=
-
 if [ $4 = 'python' ]; then
     cd python
     printf -- "# $1
@@ -14,6 +12,8 @@ if [ $4 = 'python' ]; then
 # $3
 # $4
 # $5
+# 
+# 
 # ${*:6}
 " > "$1 - $2.py"
 elif [ $4 = 'c++' ]; then
@@ -23,6 +23,8 @@ elif [ $4 = 'c++' ]; then
 // $3
 // $4
 // $5
+// 
+// 
 // ${*:6}
 " > "$1 - $2.cpp"
 elif [ $4 = 'java' ]; then
@@ -32,6 +34,8 @@ elif [ $4 = 'java' ]; then
 // $3
 // $4
 // $5
+// 
+// 
 // ${*:6}
 " > "$1 - $2.java"
 else
