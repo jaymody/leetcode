@@ -1,7 +1,7 @@
 import os
 import glob
 
-repo_url = 'https://github.com/JayMody/LeetCode/'
+repo_url = 'https://github.com/JayMody/LeetCode/blob/master'
 
 with open('base_readme.txt', 'r') as fi:
     text = fi.read()
