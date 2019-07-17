@@ -5,7 +5,7 @@
 // medium
 // O(n)
 // O(1)
-// array two pointers
+// array two_pointers
 
 class Solution {
 public:
