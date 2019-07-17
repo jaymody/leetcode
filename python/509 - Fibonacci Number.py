@@ -3,8 +3,8 @@
 # https://leetcode.com/problems/fibonacci-number/
 # python
 # easy
-#
-#
+# O(n)
+# O(1)
 # basic
 
 class Solution:

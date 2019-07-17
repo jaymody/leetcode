@@ -3,8 +3,8 @@
 // https://leetcode.com/problems/fibonacci-number/
 // java
 // easy
-//
-//
+// O(n)
+// O(1)
 // basic
 
 class Solution {
