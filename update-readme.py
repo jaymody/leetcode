@@ -35,7 +35,7 @@ for file in files:
         else:
             problems[num][2] += f", [{lang}]({os.path.join(repo_url, file).replace(' ', '%20')})"
 
-for entry in problems.values():
+for entry in sorted(problems.values()):
     text += ' | '.join(entry) + '\n'
 
 with open('README.md', 'w') as fo:
