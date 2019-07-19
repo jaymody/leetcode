@@ -21,6 +21,7 @@ for file in files:
         lines = [line[2:].strip() for line in lines]
         
         num, name, url, lang, diff, o_time, o_space, tags = tuple(lines)
+        num = int(num)
 
         if num not in problems.keys():
             problems[num] = [
@@ -36,7 +37,7 @@ for file in files:
             problems[num][2] += f", [{lang}]({os.path.join(repo_url, file).replace(' ', '%20')})"
 
 for entry in sorted(problems.values()):
-    text += ' | '.join(entry) + '\n'
+    text += ' | '.join([str(e) for e in entry]) + '\n'
 
 with open('README.md', 'w') as fo:
     fo.write(text)
