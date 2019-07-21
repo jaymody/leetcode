@@ -18,6 +18,7 @@
  */
 
 // cleaner solution
+// O(n) time
 class Solution {
 public:
     int sumOfLeftLeaves(TreeNode* root) {
@@ -39,6 +40,7 @@ public:
 }
 
 // my first solution
+// O(n) time
 class Solution {
 public:
     int right(TreeNode* root) {

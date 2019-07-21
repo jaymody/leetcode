@@ -4,7 +4,7 @@
 # python
 # easy
 # O(log n)
-# O(log n)
+# O(1)
 # math string
 
 class Solution(object):
