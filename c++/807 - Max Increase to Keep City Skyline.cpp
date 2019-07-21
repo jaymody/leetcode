@@ -5,7 +5,7 @@
 // medium
 // O(m*n)
 // O(m+n)
-// basic
+// matrix
 
 class Solution {
 public:
