@@ -15,6 +15,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/7%20-%20Reverse%20Integer.py) | easy | O(log n) | O(1) | math, string
 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/11%20-%20Container%20With%20Most%20Water.cpp) | medium | O(n) | O(1) | array, two_pointers
 15 | [3Sum](https://leetcode.com/problems/3sum/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/15%20-%203Sum.cpp) | medium | O(n^2) | O(1) | array, two_pointers
+125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/125%20-%20Valid%20Palindrome.py), [c++](https://github.com/JayMody/LeetCode/blob/master/c++/125%20-%20Valid%20Palindrome.cpp) | easy | O(n) | O(1) | string
 274 | [H-Index](https://leetcode.com/problems/h-index/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/274%20-%20H-Index.cpp) | medium | O(n) | O(n) | hash_table
 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/404%20-%20Sum%20of%20Left%20Leaves.cpp) | easy | O(n) | O(1) | tree
 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/454%20-%204Sum%20II.py) | medium | O(n^2) |  | hash_table
