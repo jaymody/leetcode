@@ -1,6 +1,7 @@
 # Useful Python Stuff
 ## Websties
 - [pydocs](https://docs.python.org/3/)
+- [time complexities of common operations](https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt)
 
 
 ## Data Structs
