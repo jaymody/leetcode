@@ -5,7 +5,7 @@
 // medium
 // O(n)
 // O(n)
-// array, random
+// array random
 
 // Fisher Yates solution (my first initial solution can be found below)
 // Time O(n)
