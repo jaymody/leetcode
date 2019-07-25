@@ -4,7 +4,7 @@
 # python
 # medium
 # O(n^2)
-# 
+# O(n^2)
 # hash_table
 
 class Solution(object):
