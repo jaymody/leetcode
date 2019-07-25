@@ -1,6 +1,6 @@
 // 384
 // Shuffle an Array
-// https://leetcode.com/problems/shuffle-an-array/submissions/
+// https://leetcode.com/problems/shuffle-an-array/
 // c++
 // medium
 // O(n)
