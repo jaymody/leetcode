@@ -2,10 +2,10 @@
 // Find the Duplicate Number
 // https://leetcode.com/problems/find-the-duplicate-number/
 // c++
-// array
-// 
-// 
-// two_pointers binary_search
+// medium
+// O(n log n)
+// O(1)
+// array two_pointers binary_search
 
 // Problem states space complexity must be O(1)
 // and time complexity must be < O(n^2)
