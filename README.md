@@ -9,6 +9,11 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ## Solutions
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
+**easy**: 16  
+**medium**: 10  
+**hard**: 3  
+
+
 \# | Problem | Solution | Difficulty | Time | Space | Tags
 --- | --- | --- | --- | --- | --- | ---
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/1%20-%20Two%20Sum.py), [c++](https://github.com/JayMody/LeetCode/blob/master/c++/1%20-%20Two%20Sum.cpp), [java](https://github.com/JayMody/LeetCode/blob/master/java/1%20-%20Two%20Sum.java) | easy | O(n) | O(n) | basic
