@@ -9,7 +9,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ## Solutions
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
-**easy**: 16  
+**easy**: 17  
 **medium**: 10  
 **hard**: 3  
 
@@ -34,6 +34,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/submissions/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/501%20-%20Find%20Mode%20in%20Binary%20Search%20Tree.cpp) | easy | O(n^2) | O(n) | tree
 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/509%20-%20Fibonacci%20Number.py), [c++](https://github.com/JayMody/LeetCode/blob/master/c++/509%20-%20Fibonacci%20Number.cpp), [java](https://github.com/JayMody/LeetCode/blob/master/java/509%20-%20Fibonacci%20Number.java) | easy | O(n) | O(1) | basic
 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [java](https://github.com/JayMody/LeetCode/blob/master/java/657%20-%20Robot%20Return%20to%20Origin.java) | easy | O(n) | O(1) | basic
+669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/669%20-%20Trim%20a%20Binary%20Search%20Tree.cpp) | easy | O(n) | O(1) | tree
 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/807%20-%20Max%20Increase%20to%20Keep%20City%20Skyline.cpp) | medium | O(m*n) | O(m+n) | matrix
 814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/submissions/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/814%20-%20Binary%20Tree%20Pruning.cpp) | medium | O(n) | O(1) | tree
 951 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/951%20-%20Flip%20Equivalent%20Binary%20Trees.cpp) | medium | O(n) | O(1) | tree
