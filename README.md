@@ -9,7 +9,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ## Solutions
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
-**easy**: 17  
+**easy**: 18  
 **medium**: 10  
 **hard**: 3  
 
@@ -30,6 +30,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/287%20-%20Find%20the%20Duplicate%20Number.cpp) | medium | O(n log n) | O(1) | array, two_pointers, binary_search
 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/384%20-%20Shuffle%20an%20Array.cpp) | medium | O(n) | O(n) | array, random
 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/404%20-%20Sum%20of%20Left%20Leaves.cpp) | easy | O(n) | O(1) | tree
+412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/412%20-%20Fizz%20Buzz.cpp) | easy | O(n) | O(1) | basic
 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/454%20-%204Sum%20II.py) | medium | O(n^2) | O(n^2) | hash_table
 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/submissions/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/501%20-%20Find%20Mode%20in%20Binary%20Search%20Tree.cpp) | easy | O(n^2) | O(n) | tree
 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/509%20-%20Fibonacci%20Number.py), [c++](https://github.com/JayMody/LeetCode/blob/master/c++/509%20-%20Fibonacci%20Number.cpp), [java](https://github.com/JayMody/LeetCode/blob/master/java/509%20-%20Fibonacci%20Number.java) | easy | O(n) | O(1) | basic
