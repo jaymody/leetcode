@@ -5,7 +5,7 @@
 // medium
 // O(n)
 // O(1)
-// 
+// array
 
 // converted recursive solution (found below) to iterative solution
 // to reduce space complexity caused by the function call stack
