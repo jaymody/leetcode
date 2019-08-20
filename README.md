@@ -11,7 +11,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 
 **easy**: 20  
 **medium**: 11  
-**hard**: 3  
+**hard**: 4  
 
 
 \# | Problem | Solution | Difficulty | Time | Space | Tags
@@ -24,7 +24,8 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/20%20-%20Valid%20Parentheses.py), [c++](https://github.com/JayMody/LeetCode/blob/master/c++/20%20-%20Valid%20Parentheses.cpp) | easy | O(n) | O(n) | string, stack
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/35%20-%20Search%20Insert%20Position.cpp) | easy | O(log n) | O(1) | array, binary_search
 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/42%20-%20Trapping%20Rain%20Water.cpp) | hard | O(n) | O(n) | array, two_pointers, dynamic
-55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/55%20-%20Jump%20Game.cpp) | medium | O(n) | O(1) | 
+45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/45%20-%20Jump%20Game%20II.cpp) | hard | O(n) | O(1) | array
+55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/55%20-%20Jump%20Game.cpp) | medium | O(n) | O(1) | array
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/66%20-%20Plus%20One.cpp) | easy | O(n) | O(1) | basic
 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/86%20-%20Partition%20List.cpp) | medium | O(n) | O(1) | linked_list, two_pointers
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/125%20-%20Valid%20Palindrome.py), [c++](https://github.com/JayMody/LeetCode/blob/master/c++/125%20-%20Valid%20Palindrome.cpp) | easy | O(n) | O(1) | string
