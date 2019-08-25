@@ -10,7 +10,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
 **easy**: 22  
-**medium**: 11  
+**medium**: 12  
 **hard**: 4  
 
 
@@ -27,6 +27,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/45%20-%20Jump%20Game%20II.cpp) | hard | O(n) | O(1) | array
 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/55%20-%20Jump%20Game.cpp) | medium | O(n) | O(1) | array
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [java](https://github.com/JayMody/LeetCode/blob/master/java/58%20-%20Length%20of%20Last%20Word.java), [python](https://github.com/JayMody/LeetCode/blob/master/python/58%20-%20Length%20of%20Last%20Word.py) | easy | O(n) | O(1) | string
+62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [java](https://github.com/JayMody/LeetCode/blob/master/java/62%20-%20Unique%20Paths.java) | medium | O(m*n) | O(m) | array
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/66%20-%20Plus%20One.cpp) | easy | O(n) | O(1) | basic
 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/86%20-%20Partition%20List.cpp) | medium | O(n) | O(1) | linked_list, two_pointers
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/125%20-%20Valid%20Palindrome.cpp), [python](https://github.com/JayMody/LeetCode/blob/master/python/125%20-%20Valid%20Palindrome.py) | easy | O(n) | O(1) | string
