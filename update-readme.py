@@ -4,7 +4,7 @@ import glob
 
 # Macros
 repo_url = 'https://github.com/JayMody/LeetCode/blob/master'
-code = [('python', '.py'), ('c++', '.cpp'), ('java', '.java')]
+code = [('c++', '.cpp'), ('java', '.java'), ('python', '.py')]
 
 # Parse through code files and get fpaths
 files = []
