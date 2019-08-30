@@ -11,7 +11,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 
 **easy**: 22  
 **medium**: 12  
-**hard**: 4  
+**hard**: 5  
 
 
 \# | Problem | Solution | Difficulty | Time | Space | Tags
@@ -25,6 +25,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/35%20-%20Search%20Insert%20Position.cpp) | easy | O(log n) | O(1) | array, binary_search
 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/42%20-%20Trapping%20Rain%20Water.cpp) | hard | O(n) | O(n) | array, two_pointers, dynamic
 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/45%20-%20Jump%20Game%20II.cpp) | hard | O(n) | O(1) | array
+52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/52%20-%20N-Queens%20II.cpp) | hard | O(n^n) | O(n) | basic
 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/55%20-%20Jump%20Game.cpp) | medium | O(n) | O(1) | array
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [java](https://github.com/JayMody/LeetCode/blob/master/java/58%20-%20Length%20of%20Last%20Word.java), [python](https://github.com/JayMody/LeetCode/blob/master/python/58%20-%20Length%20of%20Last%20Word.py) | easy | O(n) | O(1) | string
 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [java](https://github.com/JayMody/LeetCode/blob/master/java/62%20-%20Unique%20Paths.java) | medium | O(m*n) | O(m) | array
