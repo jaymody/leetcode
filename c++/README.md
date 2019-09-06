@@ -16,6 +16,7 @@
 vector<int> vec {1,2,5,-3};
 // 2D Vector
 vector<vector<int>> vec2d {{1,2}, {4,3}};
+vector<vector<int>> vec2d_constructor (nRows, vector<int>(nCols, initial_value));
 ```
 ``` c++
 // access/modify elements
@@ -94,7 +95,12 @@ int main()
 int main() 
 {
     vector<int> a = {5,1,2,5,6,1,9,-1};
+
+    # Forawrd Sort
     sort(a.begin(), a.end());
+
+    # Reverse Sort
+    sort(a.rbegin(), a.rend());
 }
 ```
 
