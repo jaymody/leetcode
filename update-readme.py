@@ -26,9 +26,8 @@ for file in files:
         num, name, url, lang, diff, o_time, o_space, tags = tuple(lines)
         num = int(num)
 
-        difficulties[diff] += 1
-
         if num not in problems.keys():
+            difficulties[diff] += 1
             problems[num] = [
                 num,
                 f'[{name}]({url})',
