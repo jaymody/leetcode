@@ -9,7 +9,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ## Solutions
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
-**easy**: 16  
+**easy**: 17  
 **medium**: 15  
 **hard**: 6  
 
@@ -22,6 +22,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/14%20-%20Longest%20Common%20Prefix.cpp) | easy | O(s*n) | O(1) | string
 15 | [3Sum](https://leetcode.com/problems/3sum/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/15%20-%203Sum.cpp) | medium | O(n^2) | O(1) | array, two_pointers
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/20%20-%20Valid%20Parentheses.cpp), [python](https://github.com/JayMody/LeetCode/blob/master/python/20%20-%20Valid%20Parentheses.py) | easy | O(n) | O(n) | string, stack
+21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/21%20-%20Merge%20Two%20Sorted%20Lists.cpp) | easy | O(n) | O(1) | linked_list
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/35%20-%20Search%20Insert%20Position.cpp) | easy | O(log n) | O(1) | array, binary_search
 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/42%20-%20Trapping%20Rain%20Water.cpp) | hard | O(n) | O(n) | array, two_pointers, dynamic
 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/45%20-%20Jump%20Game%20II.cpp) | hard | O(n) | O(1) | array
