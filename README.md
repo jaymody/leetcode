@@ -10,13 +10,14 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
 **easy**: 18  
-**medium**: 15  
+**medium**: 16  
 **hard**: 6  
 
 
 \# | Problem | Solution | Difficulty | Time | Space | Tags
 --- | --- | --- | --- | --- | --- | ---
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/1%20-%20Two%20Sum.cpp), [java](https://github.com/JayMody/LeetCode/blob/master/java/1%20-%20Two%20Sum.java), [python](https://github.com/JayMody/LeetCode/blob/master/python/1%20-%20Two%20Sum.py) | easy | O(n) | O(n) | basic
+2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/2%20-%20Add%20Two%20Numbers.cpp) | medium | O(n) | O(1) | linked_list
 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/7%20-%20Reverse%20Integer.py) | easy | O(log n) | O(1) | math, string
 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/11%20-%20Container%20With%20Most%20Water.cpp) | medium | O(n) | O(1) | array, two_pointers
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/14%20-%20Longest%20Common%20Prefix.cpp) | easy | O(s*n) | O(1) | string
