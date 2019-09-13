@@ -10,7 +10,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
 **easy**: 20  
-**medium**: 17  
+**medium**: 18  
 **hard**: 6  
 
 
@@ -34,6 +34,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/55%20-%20Jump%20Game.cpp) | medium | O(n) | O(1) | array
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [java](https://github.com/JayMody/LeetCode/blob/master/java/58%20-%20Length%20of%20Last%20Word.java), [python](https://github.com/JayMody/LeetCode/blob/master/python/58%20-%20Length%20of%20Last%20Word.py) | easy | O(n) | O(1) | string
 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/59%20-%20Spiral%20Matrix%20II.cpp) | medium | O(m*n) | O(1) | matrix
+61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/61%20-%20Rotate%20List.cpp) | medium | O(n) | O(1) | linked_list
 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [java](https://github.com/JayMody/LeetCode/blob/master/java/62%20-%20Unique%20Paths.java) | medium | O(m*n) | O(m) | array
 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/63%20-%20Unique%20Paths%20II.cpp), [java](https://github.com/JayMody/LeetCode/blob/master/java/63%20-%20Unique%20Paths%20II.java) | medium | O(m*n) | O(1) | array
 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/64%20-%20Minimum%20Path%20Sum.cpp) | medium | O(m*n) | O(n) | dp
