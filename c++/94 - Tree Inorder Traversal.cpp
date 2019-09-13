@@ -22,14 +22,12 @@
 // space: O(1)
 class Solution {
 public:
-    int visit(TreeNode* root, vector<int>& values) {
+    void visit(TreeNode* root, vector<int>& values) {
         if (root) {
             visit(root->left, values);
             values.push_back(root->val);
             visit(root->right, values);
         }
-        
-        return NULL;
     }
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> values;
