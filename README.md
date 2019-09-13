@@ -9,7 +9,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ## Solutions
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
-**easy**: 18  
+**easy**: 19  
 **medium**: 16  
 **hard**: 6  
 
@@ -38,6 +38,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/66%20-%20Plus%20One.cpp) | easy | O(n) | O(1) | basic
 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/83%20-%20Remove%20Duplicates%20from%20Sorted%20List.cpp) | easy | O(n) | O(1) | linked_list
 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/86%20-%20Partition%20List.cpp) | medium | O(n) | O(1) | linked_list, two_pointers
+100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/100%20-%20Same%20Tree.cpp) | easy | O(n) | O(1) | tree
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/125%20-%20Valid%20Palindrome.cpp), [python](https://github.com/JayMody/LeetCode/blob/master/python/125%20-%20Valid%20Palindrome.py) | easy | O(n) | O(1) | string
 274 | [H-Index](https://leetcode.com/problems/h-index/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/274%20-%20H-Index.cpp) | medium | O(n) | O(n) | hash_table
 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/287%20-%20Find%20the%20Duplicate%20Number.cpp) | medium | O(n log n) | O(1) | array, two_pointers, binary_search
