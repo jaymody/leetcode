@@ -9,7 +9,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ## Solutions
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
-**easy**: 19  
+**easy**: 20  
 **medium**: 16  
 **hard**: 6  
 
@@ -29,6 +29,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/45%20-%20Jump%20Game%20II.cpp) | hard | O(n) | O(1) | array
 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/51%20-%20N-Queens.cpp) | hard | O(n^n) | O(n) | basic
 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/52%20-%20N-Queens%20II.cpp) | hard | O(n^n) | O(n) | basic
+53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/53%20-%20Maximum%20Subarray.cpp) | easy | O(n) | O(1) | array
 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/54%20-%20Spiral%20Matrix.cpp) | medium | O(m*n) | O(1) | matrix
 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/55%20-%20Jump%20Game.cpp) | medium | O(n) | O(1) | array
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [java](https://github.com/JayMody/LeetCode/blob/master/java/58%20-%20Length%20of%20Last%20Word.java), [python](https://github.com/JayMody/LeetCode/blob/master/python/58%20-%20Length%20of%20Last%20Word.py) | easy | O(n) | O(1) | string
