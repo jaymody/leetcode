@@ -5,7 +5,7 @@
 // easy
 // O(n)
 // O(1)
-// map
+// hash_table bitwise
 
 // simple bitwise XOR solution
 // time: O(n)

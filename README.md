@@ -9,7 +9,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ## Solutions
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
-**easy**: 21  
+**easy**: 22  
 **medium**: 21  
 **hard**: 6  
 
@@ -44,6 +44,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 94 | [Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/94%20-%20Tree%20Inorder%20Traversal.cpp) | medium | O(n) | O(1) | tree
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/100%20-%20Same%20Tree.cpp) | easy | O(n) | O(1) | tree
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/125%20-%20Valid%20Palindrome.cpp), [python](https://github.com/JayMody/LeetCode/blob/master/python/125%20-%20Valid%20Palindrome.py) | easy | O(n) | O(1) | string
+136 | [Single Number](https://leetcode.com/problems/single-number/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/136%20-%20Single%20Number.cpp) | easy | O(n) | O(1) | hash_table, bitwise
 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/144%20-%20Binary%20Tree%20Preorder%20Traversal.cpp) | medium | O(n) | O(1) | tree
 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/145%20-%20Binary%20Tree%20Postorder%20Traversal.cpp) | medium | O(n) | O(1) | tree
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/206%20-%20Reverse%20Linked%20List.cpp) | easy | O(n) | O(1) | linked_list
