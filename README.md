@@ -9,7 +9,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ## Solutions
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
-**easy**: 23  
+**easy**: 24  
 **medium**: 21  
 **hard**: 6  
 
@@ -43,6 +43,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/86%20-%20Partition%20List.cpp) | medium | O(n) | O(1) | linked_list, two_pointers
 94 | [Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/94%20-%20Tree%20Inorder%20Traversal.cpp) | medium | O(n) | O(1) | tree
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/100%20-%20Same%20Tree.cpp) | easy | O(n) | O(1) | tree
+101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/101%20-%20Symmetric%20Tree.cpp) | easy | O(n) | O(1) | tree
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/125%20-%20Valid%20Palindrome.cpp), [python](https://github.com/JayMody/LeetCode/blob/master/python/125%20-%20Valid%20Palindrome.py) | easy | O(n) | O(1) | string
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/136%20-%20Single%20Number.cpp) | easy | O(n) | O(1) | hash_table, bitwise
 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/141%20-%20Linked%20List%20Cycle.cpp) | easy | TBI | TBI | linked_list
