@@ -3,8 +3,8 @@
 // https://leetcode.com/problems/binary-tree-level-order-traversal/
 // c++
 // medium
-// 
-// 
+// O(n)
+// O(n)
 // tree
 
 /**
@@ -19,7 +19,7 @@
 
 // left to right recursive solution
 // time: O(n)
-// space: O(1)
+// space: O(n)
 class Solution {
 public:    
     void visit(TreeNode* root, vector<vector<int>>& result, int depth) {
