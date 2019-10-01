@@ -9,7 +9,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ## Solutions
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
-**easy**: 25  
+**easy**: 26  
 **medium**: 24  
 **hard**: 6  
 
@@ -46,6 +46,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/100%20-%20Same%20Tree.cpp) | easy | O(n) | O(1) | tree
 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/101%20-%20Symmetric%20Tree.cpp) | easy | O(n) | O(1) | tree
 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/102%20-%20Binary%20Tree%20Level%20Order%20Traversal.cpp) | medium | O(n) | O(n) | tree
+104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/104%20-%20Maximum%20Depth%20of%20Binary%20Tree.cpp) | easy | O(n) | O(1) | tree
 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/112%20-%20Path%20Sum.cpp) | easy | O(n) | O(1) | tree
 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/113%20-%20Path%20Sum%20II.cpp) | medium | O(n) | O(d) | tree, stack
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/125%20-%20Valid%20Palindrome.cpp), [python](https://github.com/JayMody/LeetCode/blob/master/python/125%20-%20Valid%20Palindrome.py) | easy | O(n) | O(1) | string
