@@ -9,7 +9,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ## Solutions
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
-**easy**: 27  
+**easy**: 28  
 **medium**: 26  
 **hard**: 6  
 
@@ -57,6 +57,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/145%20-%20Binary%20Tree%20Postorder%20Traversal.cpp) | medium | O(n) | O(1) | tree
 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/199%20-%20Binary%20Tree%20Right%20Side%20View.cpp) | medium | O(n) | O(1) | tree
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/206%20-%20Reverse%20Linked%20List.cpp) | easy | O(n) | O(1) | linked_list
+257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/257%20-%20Binary%20Tree%20Paths.cpp) | easy | O(n) | O(1) | tree
 274 | [H-Index](https://leetcode.com/problems/h-index/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/274%20-%20H-Index.cpp) | medium | O(n) | O(n) | hash_table
 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/287%20-%20Find%20the%20Duplicate%20Number.cpp) | medium | O(n log n) | O(1) | array, two_pointers, binary_search
 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/349%20-%20Intersection%20of%20Two%20Arrays.py) | easy | O(n) | O(n) | array
