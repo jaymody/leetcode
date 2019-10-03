@@ -10,7 +10,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
 **easy**: 28  
-**medium**: 26  
+**medium**: 27  
 **hard**: 6  
 
 
@@ -53,6 +53,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/129%20-%20Sum%20Root%20to%20Leaf%20Numbers.cpp) | medium | O(n) | O(d) | tree
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/136%20-%20Single%20Number.cpp) | easy | O(n) | O(1) | hash_table, bitwise
 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/141%20-%20Linked%20List%20Cycle.cpp) | easy | TBI | TBI | linked_list
+142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/142%20-%20Linked%20List%20Cycle%20II.cpp) | medium | TBI | TBI | linked_list
 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/144%20-%20Binary%20Tree%20Preorder%20Traversal.cpp) | medium | O(n) | O(1) | tree
 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/145%20-%20Binary%20Tree%20Postorder%20Traversal.cpp) | medium | O(n) | O(1) | tree
 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/199%20-%20Binary%20Tree%20Right%20Side%20View.cpp) | medium | O(n) | O(1) | tree
