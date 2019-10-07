@@ -9,7 +9,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ## Solutions
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
-**easy**: 28  
+**easy**: 29  
 **medium**: 28  
 **hard**: 6  
 
@@ -57,6 +57,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/142%20-%20Linked%20List%20Cycle%20II.cpp) | medium | TBI | TBI | linked_list
 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/144%20-%20Binary%20Tree%20Preorder%20Traversal.cpp) | medium | O(n) | O(1) | tree
 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/145%20-%20Binary%20Tree%20Postorder%20Traversal.cpp) | medium | O(n) | O(1) | tree
+167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/167%20-%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.cpp) | easy | O(n) | O(1) | basic
 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/199%20-%20Binary%20Tree%20Right%20Side%20View.cpp) | medium | O(n) | O(1) | tree
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/206%20-%20Reverse%20Linked%20List.cpp) | easy | O(n) | O(1) | linked_list
 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/257%20-%20Binary%20Tree%20Paths.cpp) | easy | O(n) | O(1) | tree
