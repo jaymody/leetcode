@@ -10,7 +10,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
 **easy**: 29  
-**medium**: 28  
+**medium**: 29  
 **hard**: 6  
 
 
@@ -50,6 +50,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/109%20-%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.cpp) | medium | O(n) | O(n) | tree, linked_list
 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/112%20-%20Path%20Sum.cpp) | easy | O(n) | O(1) | tree
 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/113%20-%20Path%20Sum%20II.cpp) | medium | O(n) | O(d) | tree, stack
+116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/116%20-%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.cpp) | medium | O(n) | O(1) | tree
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/125%20-%20Valid%20Palindrome.cpp), [python](https://github.com/JayMody/LeetCode/blob/master/python/125%20-%20Valid%20Palindrome.py) | easy | O(n) | O(1) | string
 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/129%20-%20Sum%20Root%20to%20Leaf%20Numbers.cpp) | medium | O(n) | O(d) | tree
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/136%20-%20Single%20Number.cpp) | easy | O(n) | O(1) | hash_table, bitwise
