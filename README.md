@@ -9,7 +9,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ## Solutions
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
-**easy**: 29  
+**easy**: 30  
 **medium**: 30  
 **hard**: 6  
 
@@ -52,6 +52,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/113%20-%20Path%20Sum%20II.cpp) | medium | O(n) | O(d) | tree, stack
 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/116%20-%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.cpp) | medium | O(n) | O(1) | tree
 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/117%20-%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.cpp) | medium | O(n) | O(1) | tree
+121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/121%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp) | easy | O(n) | O(1) | basic
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/125%20-%20Valid%20Palindrome.cpp), [python](https://github.com/JayMody/LeetCode/blob/master/python/125%20-%20Valid%20Palindrome.py) | easy | O(n) | O(1) | string
 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/129%20-%20Sum%20Root%20to%20Leaf%20Numbers.cpp) | medium | O(n) | O(d) | tree
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/136%20-%20Single%20Number.cpp) | easy | O(n) | O(1) | hash_table, bitwise
