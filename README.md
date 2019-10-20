@@ -11,7 +11,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 
 **easy**: 30  
 **medium**: 30  
-**hard**: 6  
+**hard**: 7  
 
 
 \# | Problem | Solution | Difficulty | Time | Space | Tags
@@ -25,6 +25,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/16%20-%203Sum%20Closest.cpp) | medium | TBI | TBI | array
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/20%20-%20Valid%20Parentheses.cpp), [python](https://github.com/JayMody/LeetCode/blob/master/python/20%20-%20Valid%20Parentheses.py) | easy | O(n) | O(n) | string, stack
 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/21%20-%20Merge%20Two%20Sorted%20Lists.cpp) | easy | O(n) | O(1) | linked_list
+23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/23%20-%20Merge%20k%20Sorted%20Lists.cpp) | hard | O(k*N) | O(1) | linked_list
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/35%20-%20Search%20Insert%20Position.cpp) | easy | O(log n) | O(1) | array, binary_search
 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/42%20-%20Trapping%20Rain%20Water.cpp) | hard | O(n) | O(n) | array, two_pointers, dynamic
 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/45%20-%20Jump%20Game%20II.cpp) | hard | O(n) | O(1) | array
