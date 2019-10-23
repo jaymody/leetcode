@@ -9,7 +9,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ## Solutions
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
-**easy**: 30  
+**easy**: 31  
 **medium**: 32  
 **hard**: 7  
 
@@ -83,5 +83,6 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/807%20-%20Max%20Increase%20to%20Keep%20City%20Skyline.cpp) | medium | O(m*n) | O(m+n) | matrix
 814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/submissions/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/814%20-%20Binary%20Tree%20Pruning.cpp) | medium | O(n) | O(1) | tree
 951 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/951%20-%20Flip%20Equivalent%20Binary%20Trees.cpp) | medium | O(n) | O(1) | tree
+997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/997%20-%20Find%20the%20Town%20Judge.cpp) | easy | O(T) | O(N) | array
 1074 | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/1074%20-%20Number%20of%20Submatrices%20That%20Sum%20to%20Target.cpp) | hard | TBI | TBI | matrix
 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/1106%20-%20Parsing%20A%20Boolean%20Expression.py) | hard | O(n) | O(n) | string
