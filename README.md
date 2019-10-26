@@ -10,7 +10,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
 **easy**: 32  
-**medium**: 32  
+**medium**: 33  
 **hard**: 7  
 
 
@@ -24,6 +24,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/14%20-%20Longest%20Common%20Prefix.cpp) | easy | O(s*n) | O(1) | string
 15 | [3Sum](https://leetcode.com/problems/3sum/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/15%20-%203Sum.cpp) | medium | O(n^2) | O(1) | array, two_pointers
 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/16%20-%203Sum%20Closest.cpp) | medium | TBI | TBI | array
+19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/19%20-%20Remove%20Nth%20Node%20From%20End%20of%20List.cpp) | medium | O(n) | O(1) | linked_list
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/20%20-%20Valid%20Parentheses.cpp), [python](https://github.com/JayMody/LeetCode/blob/master/python/20%20-%20Valid%20Parentheses.py) | easy | O(n) | O(n) | string, stack
 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/21%20-%20Merge%20Two%20Sorted%20Lists.cpp) | easy | O(n) | O(1) | linked_list
 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/23%20-%20Merge%20k%20Sorted%20Lists.cpp) | hard | O(k*N) | O(1) | linked_list
