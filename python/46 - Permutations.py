@@ -3,12 +3,12 @@
 # https://leetcode.com/problems/permutations/
 # python
 # medium
-# O(n!)
+# O(n*n!)
 # O(1)
 # permute
 
 # solution using running list of options and path
-# time: O(n!)
+# time: O(n*n!)
 # space: O(n^2)
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
@@ -25,7 +25,7 @@ class Solution:
         return results
 
 # initial swapping solution
-# time: O(n!)
+# time: O(n*n!)
 # space: O(1) excluding output space
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:

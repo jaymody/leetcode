@@ -3,12 +3,12 @@
 // https://leetcode.com/problems/permutations/
 // c++
 // medium
-// O(n!)
+// O(n*n!)
 // O(1)
 // permute
 
 // memory effecient swapping algorthim
-// time: O(n!)
+// time: O(n*n!) (multiplied by n due to copying of vector into result which takes linear time)
 // space: O(1)  excluding output space ofc
 class Solution {
 public:
