@@ -7,6 +7,23 @@
 # O(1)
 # permute
 
+# solution using running list of options and path
+# time: O(n!)
+# space: O(n^2)
+class Solution:
+    def permute(self, nums: List[int]) -> List[List[int]]:
+        results = []
+
+        def recurse(path, options):
+            if len(options) == 1:
+                results.append(path[:] + options[:])
+            else:
+                for i in range(len(options)):
+                    recurse(path+[options[i]], options[:i] + options[i+1:])
+        
+        recurse([],nums)
+        return results
+
 # initial swapping solution
 # time: O(n!)
 # space: O(1) excluding output space
