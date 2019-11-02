@@ -33,7 +33,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/35%20-%20Search%20Insert%20Position.cpp) | easy | O(log n) | O(1) | array, binary_search
 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/42%20-%20Trapping%20Rain%20Water.cpp) | hard | O(n) | O(n) | array, two_pointers, dynamic
 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/45%20-%20Jump%20Game%20II.cpp) | hard | O(n) | O(1) | array
-46 | [Permutations](https://leetcode.com/problems/permutations/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/46%20-%20Permutations.py) | medium | O(n!) | O(1) | permute
+46 | [Permutations](https://leetcode.com/problems/permutations/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/46%20-%20Permutations.cpp), [python](https://github.com/JayMody/LeetCode/blob/master/python/46%20-%20Permutations.py) | medium | O(n!) | O(1) | permute
 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/51%20-%20N-Queens.cpp) | hard | O(n^n) | O(n) | basic
 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/52%20-%20N-Queens%20II.cpp) | hard | O(n^n) | O(n) | basic
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/53%20-%20Maximum%20Subarray.cpp) | easy | O(n) | O(1) | array
