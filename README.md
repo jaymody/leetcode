@@ -10,7 +10,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
 **easy**: 32  
-**medium**: 34  
+**medium**: 35  
 **hard**: 7  
 
 
@@ -34,6 +34,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/42%20-%20Trapping%20Rain%20Water.cpp) | hard | O(n) | O(n) | array, two_pointers, dynamic
 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/45%20-%20Jump%20Game%20II.cpp) | hard | O(n) | O(1) | array
 46 | [Permutations](https://leetcode.com/problems/permutations/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/46%20-%20Permutations.cpp), [python](https://github.com/JayMody/LeetCode/blob/master/python/46%20-%20Permutations.py) | medium | O(n*n!) | O(1) | permute
+48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/48%20-%20Rotate%20Image.cpp) | medium | O(n^2) | O(1) | matrix
 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/51%20-%20N-Queens.cpp) | hard | O(n^n) | O(n) | basic
 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/52%20-%20N-Queens%20II.cpp) | hard | O(n^n) | O(n) | basic
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/53%20-%20Maximum%20Subarray.cpp) | easy | O(n) | O(1) | array
