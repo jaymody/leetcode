@@ -3,7 +3,7 @@
 # https://leetcode.com/problems/search-a-2d-matrix/submissions/
 # python
 # medium
-# O(log m * log n)
+# O(log m + log n)
 # O(1)
 # array binary_search matrix
 
