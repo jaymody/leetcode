@@ -10,7 +10,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
 **easy**: 33  
-**medium**: 40  
+**medium**: 41  
 **hard**: 7  
 
 
@@ -41,6 +41,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/53%20-%20Maximum%20Subarray.cpp) | easy | O(n) | O(1) | array
 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/54%20-%20Spiral%20Matrix.cpp) | medium | O(m*n) | O(1) | matrix
 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/55%20-%20Jump%20Game.cpp) | medium | O(n) | O(1) | array
+56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/56%20-%20Merge%20Intervals.py) | medium | O(n log n) | O(1) | array
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [java](https://github.com/JayMody/LeetCode/blob/master/java/58%20-%20Length%20of%20Last%20Word.java), [python](https://github.com/JayMody/LeetCode/blob/master/python/58%20-%20Length%20of%20Last%20Word.py) | easy | O(n) | O(1) | string
 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/59%20-%20Spiral%20Matrix%20II.cpp) | medium | O(m*n) | O(1) | matrix
 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/61%20-%20Rotate%20List.cpp) | medium | O(n) | O(1) | linked_list
