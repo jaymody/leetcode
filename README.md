@@ -10,7 +10,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
 **easy**: 33  
-**medium**: 45  
+**medium**: 46  
 **hard**: 7  
 
 
@@ -32,6 +32,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/26%20-%20Remove%20Duplicates%20from%20Sorted%20Array.cpp) | easy | O(n) | O(1) | array
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/35%20-%20Search%20Insert%20Position.cpp) | easy | O(log n) | O(1) | array, binary_search
 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/39%20-%20Combination%20Sum.py) | medium | O(n^t) | O(n*t) | array, backtracking
+40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/40%20-%20Combination%20Sum%20II.py) | medium | O(2^n) | O(n^2) | array, backtracking
 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/42%20-%20Trapping%20Rain%20Water.cpp) | hard | O(n) | O(n) | array, two_pointers, dynamic
 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/45%20-%20Jump%20Game%20II.cpp) | hard | O(n) | O(1) | array
 46 | [Permutations](https://leetcode.com/problems/permutations/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/46%20-%20Permutations.cpp), [python](https://github.com/JayMody/LeetCode/blob/master/python/46%20-%20Permutations.py) | medium | O(n*n!) | O(1) | permute
