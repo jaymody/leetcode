@@ -37,7 +37,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/48%20-%20Rotate%20Image.cpp) | medium | O(n^2) | O(1) | matrix
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/49%20-%20Group%20Anagrams.cpp), [python](https://github.com/JayMody/LeetCode/blob/master/python/49%20-%20Group%20Anagrams.py) | medium | O(n*k*log k) | O(k*n) | string
 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/51%20-%20N-Queens.cpp) | hard | O(n^n) | O(n) | basic
-52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/52%20-%20N-Queens%20II.cpp) | hard | O(n^n) | O(n) | basic
+52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/52%20-%20N-Queens%20II.cpp), [python](https://github.com/JayMody/LeetCode/blob/master/python/52%20-%20N-Queens%20II.py) | hard | O(n^n) | O(n) | basic
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/53%20-%20Maximum%20Subarray.cpp) | easy | O(n) | O(1) | array
 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/54%20-%20Spiral%20Matrix.cpp) | medium | O(m*n) | O(1) | matrix
 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/55%20-%20Jump%20Game.cpp) | medium | O(n) | O(1) | array
