@@ -10,7 +10,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
 **easy**: 33  
-**medium**: 43  
+**medium**: 44  
 **hard**: 7  
 
 
@@ -53,6 +53,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/73%20-%20Set%20Matrix%20Zeroes.py) | medium | O(m*n) | O(1) | array
 74 | [Search 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/74%20-%20Search%202D%20Matrix.py) | medium | O(log m + log n) | O(1) | array, binary_search, matrix
 77 | [Combinations](https://leetcode.com/problems/combinations/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/77%20-%20Combinations.py) | medium | O(nCk) | O(n) | combinatronics, backtracking
+78 | [Subsets](https://leetcode.com/problems/subsets/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/78%20-%20Subsets.py) | medium | O(2^n) | O(n) | combinatronics, backtracking
 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/83%20-%20Remove%20Duplicates%20from%20Sorted%20List.cpp) | easy | O(n) | O(1) | linked_list
 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/86%20-%20Partition%20List.cpp) | medium | O(n) | O(1) | linked_list, two_pointers
 94 | [Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/94%20-%20Tree%20Inorder%20Traversal.cpp) | medium | O(n) | O(1) | tree
