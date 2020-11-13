@@ -10,7 +10,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
 **easy**: 33  
-**medium**: 47  
+**medium**: 48  
 **hard**: 7  
 
 
@@ -30,6 +30,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/23%20-%20Merge%20k%20Sorted%20Lists.cpp) | hard | O(k*N) | O(1) | linked_list
 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/24%20-%20Swap%20Nodes%20in%20Pairs.cpp) | medium | O(n) | O(1) | linked_list
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/26%20-%20Remove%20Duplicates%20from%20Sorted%20Array.cpp) | easy | O(n) | O(1) | array
+33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/33%20-%20Search%20in%20Rotated%20Sorted%20Array.py) | medium | O(log n) | O(1) | binary_search
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/35%20-%20Search%20Insert%20Position.cpp) | easy | O(log n) | O(1) | array, binary_search
 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/39%20-%20Combination%20Sum.py) | medium | O(n^t) | O(n*t) | array, backtracking
 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/40%20-%20Combination%20Sum%20II.py) | medium | O(2^n) | O(n^2) | array, backtracking
