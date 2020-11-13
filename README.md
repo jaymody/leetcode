@@ -10,7 +10,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
 **easy**: 33  
-**medium**: 49  
+**medium**: 50  
 **hard**: 7  
 
 
@@ -55,6 +55,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/66%20-%20Plus%20One.cpp) | easy | O(n) | O(1) | basic
 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/73%20-%20Set%20Matrix%20Zeroes.py) | medium | O(m*n) | O(1) | array
 74 | [Search 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/74%20-%20Search%202D%20Matrix.py) | medium | O(log m + log n) | O(1) | array, binary_search, matrix
+75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/75%20-%20Sort%20Colors.py) | medium | O(n) | O(1) | two_pointers
 77 | [Combinations](https://leetcode.com/problems/combinations/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/77%20-%20Combinations.py) | medium | O(nCk) | O(n) | combinatronics, backtracking
 78 | [Subsets](https://leetcode.com/problems/subsets/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/78%20-%20Subsets.py) | medium | O(2^n) | O(n) | combinatronics, backtracking
 79 | [Word Search](https://leetcode.com/problems/word-search/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/79%20-%20Word%20Search.py) | medium | O(m*n*4^l) | O(l) | search
