@@ -10,7 +10,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
 **easy**: 33  
-**medium**: 50  
+**medium**: 51  
 **hard**: 7  
 
 
@@ -61,6 +61,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 79 | [Word Search](https://leetcode.com/problems/word-search/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/79%20-%20Word%20Search.py) | medium | O(m*n*4^l) | O(l) | search
 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/83%20-%20Remove%20Duplicates%20from%20Sorted%20List.cpp) | easy | O(n) | O(1) | linked_list
 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/86%20-%20Partition%20List.cpp) | medium | O(n) | O(1) | linked_list, two_pointers
+90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/90%20-%20Subsets%20II.py) | medium | O(2^n) | O(n^2) | array, backtracking
 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/92%20-%20Reverse%20Linked%20List%20II.py) | medium | O(n) | O(1) | linked_list
 94 | [Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/94%20-%20Tree%20Inorder%20Traversal.cpp) | medium | O(n) | O(1) | tree
 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/95%20-%20Unique%20Binary%20Search%20Trees%20II.py) | medium | O(4^n) | O(4^n) | tree, dp
