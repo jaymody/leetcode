@@ -10,7 +10,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
 **easy**: 33  
-**medium**: 54  
+**medium**: 55  
 **hard**: 7  
 
 
@@ -103,6 +103,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/617%20-%20Merge%20Two%20Binary%20Trees.cpp) | easy | O(n) | O(1) | tree
 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [java](https://github.com/JayMody/LeetCode/blob/master/java/657%20-%20Robot%20Return%20to%20Origin.java) | easy | O(n) | O(1) | basic
 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/669%20-%20Trim%20a%20Binary%20Search%20Tree.cpp) | easy | O(n) | O(1) | tree
+735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/735%20-%20Asteroid%20Collision.py) | medium | O(n) | O(n) | stack, linked_list
 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/807%20-%20Max%20Increase%20to%20Keep%20City%20Skyline.cpp) | medium | O(m*n) | O(m+n) | matrix
 814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/submissions/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/814%20-%20Binary%20Tree%20Pruning.cpp) | medium | O(n) | O(1) | tree
 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/867%20-%20Transpose%20Matrix.py) | easy | O(n) | O(n) | array
