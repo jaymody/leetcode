@@ -10,7 +10,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 ** **Note: Problems may contain multiple unique solutions with varying time/space complexities. The time/space complexities listed in the table represent only one of my solutions (if multiple). Refer to the solution file(s) for the specific time/space complexities of each unique solution.**
 
 **easy**: 33  
-**medium**: 55  
+**medium**: 56  
 **hard**: 7  
 
 
@@ -99,6 +99,7 @@ Collection of [leetcode](https://leetcode.com) solutions I've completed ([leetco
 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/454%20-%204Sum%20II.py) | medium | O(n^2) | O(n^2) | hash_table
 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/submissions/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/501%20-%20Find%20Mode%20in%20Binary%20Search%20Tree.cpp) | easy | O(n^2) | O(n) | tree
 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/509%20-%20Fibonacci%20Number.cpp), [java](https://github.com/JayMody/LeetCode/blob/master/java/509%20-%20Fibonacci%20Number.java), [python](https://github.com/JayMody/LeetCode/blob/master/python/509%20-%20Fibonacci%20Number.py) | easy | O(n) | O(1) | basic
+554 | [Brick Wall](https://leetcode.com/problems/brick-wall/) | [python](https://github.com/JayMody/LeetCode/blob/master/python/554%20-%20Brick%20Wall.py) | medium | O(n) | O(n) | hash_map
 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/561%20-%20Array%20Partition%20I.cpp) | easy | O(n log n) | O(1) | array
 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [c++](https://github.com/JayMody/LeetCode/blob/master/c++/617%20-%20Merge%20Two%20Binary%20Trees.cpp) | easy | O(n) | O(1) | tree
 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [java](https://github.com/JayMody/LeetCode/blob/master/java/657%20-%20Robot%20Return%20to%20Origin.java) | easy | O(n) | O(1) | basic
